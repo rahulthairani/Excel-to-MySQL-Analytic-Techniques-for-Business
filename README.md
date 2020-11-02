@@ -14,6 +14,8 @@ In this Specialization, you’ll learn to frame business challenges as data ques
 
 # Business Metrics for Data-Driven Companies
 
+https://www.coursera.org/learn/analytics-business-metrics?specialization=excel-mysql
+
 In this course, you will learn best practices for how to use data analytics to make any company more competitive and more profitable. You will be able to recognize the most critical business metrics and distinguish them from mere data.
 
 You’ll get a clear picture of the vital but different roles business analysts, business data analysts, and data scientists each play in various types of companies. And you’ll know exactly what skills are required to be hired for, and succeed at, these high-demand jobs.
@@ -23,6 +25,8 @@ Finally, you will be able to use a checklist provided in the course to score any
 Approx. 8 hours to complete
 
 # Mastering Data Analysis in Excel
+
+https://www.coursera.org/learn/analytics-excel?specialization=excel-mysql
 
 This course will prepare you to design and implement realistic predictive models based on data. In the Final Project (module 6) you will assume the role of a business data analyst for a bank, and develop two different predictive models to determine which applicants for credit cards should be accepted and which rejected. Your first model will focus on minimizing default risk, and your second on maximizing bank profits. The two models should demonstrate to you in a practical, hands-on way the idea that your choice of business metric drives your choice of an optimal model.
 
@@ -36,6 +40,8 @@ Approx. 21 hours to complete
 
 # Data Visualization and Communication with Tableau
 
+https://www.coursera.org/learn/analytics-tableau?specialization=excel-mysql
+
 One of the skills that characterizes great business data analysts is the ability to communicate practical implications of quantitative analyses to any kind of audience member.  Even the most sophisticated statistical analyses are not useful to a business if they do not lead to actionable advice, or if the answers to those business questions are not conveyed in a way that non-technical people can understand.  
 
 In this course you will learn how to become a master at communicating business-relevant implications of data analyses.  By the end, you will know how to structure your data analysis projects to ensure the fruits of your hard labor yield results for your stakeholders.  You will also know how to streamline your analyses and highlight their implications efficiently using visualizations in Tableau, the most popular visualization program in the business world.  Using other Tableau features, you will be able to make effective visualizations that harness the human brain’s innate perceptual and cognitive tendencies to convey conclusions directly and clearly.  Finally, you will be practiced in designing and persuasively presenting business “data stories” that use these visualizations, capitalizing on business-tested methods and design principles.
@@ -44,9 +50,10 @@ Approx. 25 hours to complete
 
 # Managing Big Data with MySQL
 
+https://www.coursera.org/learn/analytics-mysql?specialization=excel-mysql
+
 This course is an introduction to how to use relational databases in business analysis.  You will learn how relational databases work, and how to use entity-relationship diagrams to display the structure of the data held within them.  This knowledge will help you understand how data needs to be collected in business contexts, and help you identify features you want to consider if you are involved in implementing new data collection efforts.  You will also learn how to execute the most useful query and table aggregation statements for business analysts, and practice using them with real databases. No more waiting 48 hours for someone else in the company to provide data to you – you will be able to get the data by yourself!
 
 By the end of this course, you will have a clear understanding of how relational databases work, and have a portfolio of queries you can show potential employers. Businesses are collecting increasing amounts of information with the hope that data will yield novel insights into how to improve businesses. Analysts that understand how to access this data – this means you! – will have a strong competitive advantage in this data-smitten business world.
 
 Approx. 32 hours to complete
-
