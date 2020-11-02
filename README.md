@@ -12,7 +12,7 @@ Formulate data questions, explore and visualize large datasets, and inform strat
 
 In this Specialization, you’ll learn to frame business challenges as data questions. You’ll use powerful tools and methods such as Excel, Tableau, and MySQL to analyze data, create forecasts and models, design visualizations, and communicate your insights. In the final Capstone Project, you’ll apply your skills to explore and justify improvements to a real-world business process.
 
-## Business Metrics for Data-Driven Companies
+## 1 - Business Metrics for Data-Driven Companies
 
 https://www.coursera.org/learn/analytics-business-metrics?specialization=excel-mysql
 
@@ -24,7 +24,7 @@ Finally, you will be able to use a checklist provided in the course to score any
 
 Approx. 8 hours to complete
 
-## Mastering Data Analysis in Excel
+## 2 - Mastering Data Analysis in Excel
 
 https://www.coursera.org/learn/analytics-excel?specialization=excel-mysql
 
@@ -38,7 +38,7 @@ The course does not cover Visual Basic or Pivot Tables and you will not need the
 
 Approx. 21 hours to complete
 
-## Data Visualization and Communication with Tableau
+## 3 - Data Visualization and Communication with Tableau
 
 https://www.coursera.org/learn/analytics-tableau?specialization=excel-mysql
 
@@ -48,7 +48,7 @@ In this course you will learn how to become a master at communicating business-r
 
 Approx. 25 hours to complete
 
-## Managing Big Data with MySQL
+## 4 - Managing Big Data with MySQL
 
 https://www.coursera.org/learn/analytics-mysql?specialization=excel-mysql
 
