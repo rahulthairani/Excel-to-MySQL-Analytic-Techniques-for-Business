@@ -6,13 +6,13 @@ https://www.coursera.org/specializations/excel-mysql
 
 Turn data into value. Drive business process change by identifying & analyzing key metrics in 4 industry-relevant courses.
 
-# About this Specialization
+### About this Specialization
 
 Formulate data questions, explore and visualize large datasets, and inform strategic decisions.
 
 In this Specialization, you’ll learn to frame business challenges as data questions. You’ll use powerful tools and methods such as Excel, Tableau, and MySQL to analyze data, create forecasts and models, design visualizations, and communicate your insights. In the final Capstone Project, you’ll apply your skills to explore and justify improvements to a real-world business process.
 
-# Business Metrics for Data-Driven Companies
+## Business Metrics for Data-Driven Companies
 
 https://www.coursera.org/learn/analytics-business-metrics?specialization=excel-mysql
 
@@ -24,7 +24,7 @@ Finally, you will be able to use a checklist provided in the course to score any
 
 Approx. 8 hours to complete
 
-# Mastering Data Analysis in Excel
+## Mastering Data Analysis in Excel
 
 https://www.coursera.org/learn/analytics-excel?specialization=excel-mysql
 
@@ -38,17 +38,17 @@ The course does not cover Visual Basic or Pivot Tables and you will not need the
 
 Approx. 21 hours to complete
 
-# Data Visualization and Communication with Tableau
+## Data Visualization and Communication with Tableau
 
 https://www.coursera.org/learn/analytics-tableau?specialization=excel-mysql
 
 One of the skills that characterizes great business data analysts is the ability to communicate practical implications of quantitative analyses to any kind of audience member.  Even the most sophisticated statistical analyses are not useful to a business if they do not lead to actionable advice, or if the answers to those business questions are not conveyed in a way that non-technical people can understand.  
 
-In this course you will learn how to become a master at communicating business-relevant implications of data analyses.  By the end, you will know how to structure your data analysis projects to ensure the fruits of your hard labor yield results for your stakeholders.  You will also know how to streamline your analyses and highlight their implications efficiently using visualizations in Tableau, the most popular visualization program in the business world.  Using other Tableau features, you will be able to make effective visualizations that harness the human brain’s innate perceptual and cognitive tendencies to convey conclusions directly and clearly.  Finally, you will be practiced in designing and persuasively presenting business “data stories” that use these visualizations, capitalizing on business-tested methods and design principles.
+In this course you will learn how to become a master at communicating business-relevant implications of data analyses.  By the end, you will know how to structure your data analysis projects to ensure the fruits of your hard labor yield results for your stakeholders.  You will also know how to streamline your analyses and highlight their implications efficiently using visualizations in Tableau, the most popular visualization program in the business world.  Using other Tableau features, you will be able to make effective visualizations that harness the human brain’s innate perceptual and cognitive tendencies to convey conclusions directly and clearly.  Finally, you will obtain practice in designing and persuasively presenting business “data stories” that use these visualizations, capitalizing on business-tested methods and design principles.
 
 Approx. 25 hours to complete
 
-# Managing Big Data with MySQL
+## Managing Big Data with MySQL
 
 https://www.coursera.org/learn/analytics-mysql?specialization=excel-mysql
 
