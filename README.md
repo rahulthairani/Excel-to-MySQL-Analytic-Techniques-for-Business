@@ -1,4 +1,4 @@
-# Excel-to-MySQL-Analytic-Techniques-for-Business
+# Excel-to-MySQL-Analytic-Techniques-for-Business-Specialization
 
 Excel to MySQL: Analytic Techniques for Business Specialization - Duke University - Coursera
 
