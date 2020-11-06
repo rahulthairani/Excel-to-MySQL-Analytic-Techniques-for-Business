@@ -1,8 +1,6 @@
 # Excel-to-MySQL-Analytic-Techniques-for-Business-Specialization
 
-Excel to MySQL: Analytic Techniques for Business Specialization - Duke University - Coursera
-
-https://www.coursera.org/specializations/excel-mysql
+**[Excel to MySQL: Analytic Techniques for Business Specialization - Duke University](https://www.coursera.org/specializations/excel-mysql "Specialization Description")**
 
 Turn data into value. Drive business process change by identifying & analyzing key metrics in 4 industry-relevant courses.
 
@@ -14,7 +12,7 @@ In this Specialization, you’ll learn to frame business challenges as data ques
 
 ## 1 - Business Metrics for Data-Driven Companies
 
-https://www.coursera.org/learn/analytics-business-metrics?specialization=excel-mysql
+**[`https://www.coursera.org/learn/analytics-business-metrics?specialization=excel-mysql`](https://www.coursera.org/learn/analytics-business-metrics?specialization=excel-mysql "course Description")**
 
 In this course, you will learn best practices for how to use data analytics to make any company more competitive and more profitable. You will be able to recognize the most critical business metrics and distinguish them from mere data.
 
