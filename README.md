@@ -12,7 +12,7 @@ In this Specialization, you’ll learn to frame business challenges as data ques
 
 ## 1 - Business Metrics for Data-Driven Companies
 
-**[`https://www.coursera.org/learn/analytics-business-metrics?specialization=excel-mysql`](https://www.coursera.org/learn/analytics-business-metrics?specialization=excel-mysql "course Description")**
+**[Business Metrics for Data-Driven Companies](https://www.coursera.org/learn/analytics-business-metrics?specialization=excel-mysql "course Description")**
 
 In this course, you will learn best practices for how to use data analytics to make any company more competitive and more profitable. You will be able to recognize the most critical business metrics and distinguish them from mere data.
 
@@ -24,7 +24,7 @@ Approx. 8 hours to complete
 
 ## 2 - Mastering Data Analysis in Excel
 
-**[`https://www.coursera.org/learn/analytics-excel?specialization=excel-mysql`](https://www.coursera.org/learn/analytics-excel?specialization=excel-mysql "Course Description")**
+**[Mastering Data Analysis in Excel](https://www.coursera.org/learn/analytics-excel?specialization=excel-mysql "Course Description")**
 
 This course will prepare you to design and implement realistic predictive models based on data. In the Final Project (module 6) you will assume the role of a business data analyst for a bank, and develop two different predictive models to determine which applicants for credit cards should be accepted and which rejected. Your first model will focus on minimizing default risk, and your second on maximizing bank profits. The two models should demonstrate to you in a practical, hands-on way the idea that your choice of business metric drives your choice of an optimal model.
 
@@ -38,7 +38,7 @@ Approx. 21 hours to complete
 
 ## 3 - Data Visualization and Communication with Tableau
 
-**[`https://www.coursera.org/learn/analytics-tableau?specialization=excel-mysql`](https://www.coursera.org/learn/analytics-tableau?specialization=excel-mysql "Course Description")**
+**[Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau?specialization=excel-mysql "Course Description")**
 
 One of the skills that characterizes great business data analysts is the ability to communicate practical implications of quantitative analyses to any kind of audience member.  Even the most sophisticated statistical analyses are not useful to a business if they do not lead to actionable advice, or if the answers to those business questions are not conveyed in a way that non-technical people can understand.  
 
@@ -48,7 +48,7 @@ Approx. 25 hours to complete
 
 ## 4 - Managing Big Data with MySQL
 
-**[`https://www.coursera.org/learn/analytics-mysql?specialization=excel-mysql`](https://www.coursera.org/learn/analytics-mysql?specialization=excel-mysql "Course Description")**
+**[Managing Big Data with MySQL](https://www.coursera.org/learn/analytics-mysql?specialization=excel-mysql "Course Description")**
 
 This course is an introduction to how to use relational databases in business analysis.  You will learn how relational databases work, and how to use entity-relationship diagrams to display the structure of the data held within them.  This knowledge will help you understand how data needs to be collected in business contexts, and help you identify features you want to consider if you are involved in implementing new data collection efforts.  You will also learn how to execute the most useful query and table aggregation statements for business analysts, and practice using them with real databases. No more waiting 48 hours for someone else in the company to provide data to you – you will be able to get the data by yourself!
 
